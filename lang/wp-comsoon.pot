@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Comsoon\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-12 08:55+0100\n"
+"PO-Revision-Date: 2010-04-12 09:07+0100\n"
+"Last-Translator: Marc Migge <eggicramm@googlemail.com>\n"
+"Language-Team: Marc Migge <kontakt@postkartengeschichten.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp-comsoon.php:35
+msgid "Displays scheduled posts in the sidebar"
+msgstr "Zeigt geplante Artikel in der Sidebar"
+
+#: ../wp-comsoon.php:57
+#: ../wp-comsoon.php:114
+#: ../wp-comsoon.php:176
+#: ../wp-comsoon.php:188
+msgid "No scheduled posts"
+msgstr "Keine geplanten Artikel"
+
+#: ../wp-comsoon.php:125
+msgid "Title:"
+msgstr "Titel:"
+
+#: ../wp-comsoon.php:130
+msgid "No scheduled posts text:"
+msgstr "\"Keine geplanten Artikel\"-Text"
+
+#: ../wp-comsoon.php:136
+msgid "Posts are displayed"
+msgstr "Artikel werden angezeigt"
+
+#: ../wp-comsoon.php:142
+msgid "Show Date ?"
+msgstr "Datum anzeigen ?"
+
+#: ../wp-comsoon.php:147
+msgid "Show Time ?"
+msgstr "Zeit anzeigen ?"
+
+#: ../wp-comsoon.php:152
+msgid "Hide No Posts scheduled text ?"
+msgstr "\"Keine geplanten Artikel\"-Text verstecken ?"
+
+#: ../wp-comsoon.php:157
+msgid "Sort posts descending ?"
+msgstr "Artikel absteigend sortieren ?"
+
+#: ../wp-comsoon.php:162
+msgid "Hide \"powered by WP Comsoon\""
+msgstr "\"powered by WP Comsoon\"-Text verstecken ?"
+
